@@ -1,2 +1,12 @@
-# simple-crypto-tracker-tool-15
-A simple crypto tracker project
+# Crypto Price Tracker
+
+Track cryptocurrency prices from the command line.
+
+Learning project
+
+## Setup
+
+```
+pip install requests
+python tracker.py
+```
